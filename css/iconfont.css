@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 4540732 */
+    src: url('//at.alicdn.com/t/c/font_4540732_5i9shyfzb7r.woff2?t=1715318251611') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4540732_5i9shyfzb7r.woff?t=1715318251611') format('woff'),
+         url('//at.alicdn.com/t/c/font_4540732_5i9shyfzb7r.ttf?t=1715318251611') format('truetype');
+  }
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .icon-plant:before {
+    content: "\e630";
+  }
+  .icon-yanjiu:before {
+    content: "\e675";
+  }
+  .icon-Notes:before {
+    content: "\e687";
+  }
+  .icon-DNA:before {
+    content: "\e611";
+  }
+  .icon-yiliaohangye:before {
+    content: "\e638";
+  }
+  .icon-scaleProtein:before {
+    content: "\e81a";
+  }
+  .icon-a-graph-Neuralnetwork:before {
+    content: "\e601";
+  }
+  .icon-microbiology_wght300_24px:before {
+    content: "\e600";
+  }
+  .icon-animal:before {
+    content: "\e65c";
+  }
