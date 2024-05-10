@@ -360,7 +360,7 @@ template {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\135';
+  content: '\f471';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
