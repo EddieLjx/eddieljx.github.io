@@ -26,7 +26,7 @@ setInterval(() => {
       time[4] = nol(second);
     }
     if ((Number(time[2])<22) && (Number(time[2])>7)){
-      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/白天好-向lyx学习_aqua?style=social&logo=cakephp' title='什么时候可以像梁Pi一样优秀~'><div id='runtime'>" + time[0] + '  YEARS  ' + time[1] + '  DAYS  ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
+      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/白天好-向lyx学习-aqua?style=social&logo=cakephp' title='什么时候可以像梁Pi一样优秀~'><div id='runtime'>" + time[0] + '  YEARS  ' + time[1] + '  DAYS  ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
     }
     else{
       currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/晚上好-向wjc学习-skyblue?style=social&logo=coffeescript' title='好好学习不要拖魏哥后腿啦~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
