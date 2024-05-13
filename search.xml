@@ -5,15 +5,15 @@
     
     <entry>
       <title>还没开始复现 这只是一个测试</title>
-      <link href="/2024/05/11/share1/"/>
-      <url>/2024/05/11/share1/</url>
+      <link href="/2024/05/11/read1/"/>
+      <url>/2024/05/11/read1/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 文章复现 </category>
+          <category> 文献阅读 </category>
           
       </categories>
       
@@ -50,18 +50,31 @@
     
     
     <entry>
+      <title>还没开始阅读 这只是一个测试</title>
+      <link href="/2024/05/11/share1/"/>
+      <url>/2024/05/11/share1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章复现 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>欢迎光临Eddie的blog</title>
       <link href="/2024/05/10/welcome/"/>
       <url>/2024/05/10/welcome/</url>
       
         <content type="html"><![CDATA[<h1 id="Welcome-to-Eddie’s-blog"><a href="#Welcome-to-Eddie’s-blog" class="headerlink" title="Welcome to Eddie’s blog!"></a>Welcome to Eddie’s blog!</h1><p>本博客基于Hexo+Github搭建，采用butterfly主题样式。由于能力受限，做的很丑hhhh<br>这是我的第一篇博客，也可能没有第二篇<br>如果有第二篇的话，那就有吧hhh<br>希望有机会能在上面分享我的学习记录（仅代表个人的理解，可能希望对大家有帮助，也有可能误导大家笑死）</p>]]></content>
       
-      
-      <categories>
-          
-          <category> 生活趣闻 </category>
-          
-      </categories>
       
       
         <tags>
