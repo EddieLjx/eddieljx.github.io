@@ -183,3 +183,7 @@ div#archive {
 .body {
     font-size: 10px;
 }
+
+.article-container a{
+    color: #3eb8be;
+}
